@@ -1,4 +1,4 @@
-### Global Airbnb Performance Dashboard
+# Global Airbnb Performance Dashboard
 
 Analyzing Airbnb's global presence across 10 major cities to uncover market trends, pricing strategies, customer satisfaction patterns, and host trust signals — helping stakeholders make smarter business and travel decisions.
 
@@ -20,6 +20,7 @@ Core Business Questions:
 
 ## Tools & Technologies
 | Tool |  Purpose|
+|------|---------|
 |Power BI|Dashboard building & interactive reporting|
 |DAX|Calculated measures & KPIs|
 |Power Query|Data cleaning & transformation|
